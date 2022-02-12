@@ -7,14 +7,14 @@ body{
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: rgb(0, 255, 21);
+    background: #031321;
     font-family: consolas;
 }
 a{
     position: relative;
     display: inline-block;
     padding: 15px 30px;
-    color: #f32121;
+    color: #2196f3;
     text-decoration: none;
     text-transform: uppercase;
     letter-spacing: 4px;
@@ -23,9 +23,9 @@ a{
     transition: 0.4s;
 }
 a:hover{
-    color: #842525;
-    background: #f32121;
-    box-shadow: 0 0 10px #f32121,0 0 40px #f32121,0 0 80px #f32121;
+    color: #255784;
+    background: #2196f3;
+    box-shadow: 0 0 10px #2196f3,0 0 40px #2196f3,0 0 80px #2196f3;
     transition-delay: 1s;
 }
 a span{
